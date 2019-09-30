@@ -9,6 +9,8 @@ pylint = "*"
 [packages]
 sqlalchemy = "*"
 psycopg2-binary = "*"
+flask = "*"
+marshmallow = "*"
 
 [requires]
 python_version = "3.7"
